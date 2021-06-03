@@ -1,0 +1,8 @@
+{
+    "key":"value",
+    "key2": {
+        "key21": "value21",
+        "key22": "value22"
+    },
+    "key3":"value3 is the \"supernormal\" value"
+}
